@@ -11,4 +11,8 @@ git add four
 git add five	
 
 
-git add six 
+git add six
+
+git add seven
+
+git add enght 

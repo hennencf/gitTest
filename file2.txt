@@ -6,3 +6,5 @@ git file2 add
 git file2 add
 
 git add reset
+
+git add file3.sql

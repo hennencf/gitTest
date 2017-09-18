@@ -4,3 +4,5 @@ git file2 add
 
 
 git file2 add
+
+git add reset
